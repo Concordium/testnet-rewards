@@ -1,11 +1,17 @@
-### Update: work-in-progress reward status
+### Update: draft final rewards
 
-We have almost completed reviews for people who submitted correctly (~80% total), and are now starting to look at duplicates, closed pull requests, and feedback on pending items.
+We have completed the draft final review of OT3 challenge submissions.
 
-<ins>**Please do not contact us about results yet**</ins> – these results are not yet final. We will announce when the period for feedback commences.
+You can see them here: http://developers.concordium.com/testnet-rewards/ot3-summary.htm
 
-If you think we've missed something on a rejected submission, please respond as a comment or a question on the related PR (all submissions below link back to Githhub PRs).
+*For any issues/questions about your result, put a comment in the relevant PR.*
 
-Rewards are calculated once for a successful submission, even if duplicates are confirmed.
+We highly appreciate your patience. To avoid confusion and wasted effort, we kindly request you do not message us on multiple platforms, and patiently wait for us to answer to your query.
 
-Last updated: 2020-01-20
+The deadline for feedback is 2021-02-25 10:00 PST.
+
+Any new queries after this will be disregarded.
+
+Rewards are calculated once per submission per user, even if you can see duplicates have been confirmed.
+
+Last updated: 2021-02-18
