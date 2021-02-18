@@ -1,4 +1,4 @@
-### Update: draft final rewards
+### Update: OT3 draft final rewards
 
 We have completed the draft final review of OT3 challenge submissions.
 
